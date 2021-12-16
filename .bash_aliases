@@ -6,7 +6,7 @@ alias rdr='./bin/rails db:reset'
 alias gs='git status'
 alias ga='git add .'
 alias gc='git commit -m'
-alias gac='git add . && commit -m'
+alias gac='git add . && git commit -m'
 alias gp='git push'
 
 
